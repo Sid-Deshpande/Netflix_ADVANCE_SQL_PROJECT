@@ -1,6 +1,6 @@
 # Netflix Movies and Tv shows Data Analysis Using SQL ON postgreSQL
 
-![Netflix Logo]()
+![Netflix Logo](https://github.com/Sid-Deshpande/Netflix_ADVANCE_SQL_PROJECT/blob/main/netflix%20image.png)
 
 
 
